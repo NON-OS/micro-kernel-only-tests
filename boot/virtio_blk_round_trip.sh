@@ -89,7 +89,7 @@ EXPECTED=(
     "[INIT] Starting"
     "[driver_blk] discover ok"
     "[driver_blk] claim ok"
-    "[driver_blk] mmio ok"
+    "[driver_blk] register ok"
     "[driver_blk] irq ok"
     "[driver_blk] dma ok"
     "[driver_blk] virtqueue ok"
